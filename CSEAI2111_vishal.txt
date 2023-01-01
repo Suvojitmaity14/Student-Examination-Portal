@@ -1,0 +1,18 @@
+ Student Name : vishal 
+ Class Roll-number: 11 
+ Stream : CSEAI 
+ Student ID : CSEAI2111
+
+
+ Marks obtained in the Following subjects are
+ ->-->-->-->-->-->-->-->-->-->-->-->-->-->-->-
+ Mathematics :- 100 
+ Physics :- 95 
+ Electrical :- 96 
+ Mechanics :- 100 
+ PythonProgramming :- 92 
+ Biology :- 93 
+
+Total marks out of 600 is : 576 and Percentage scored is : 96%
+Your Performance has been Outstanding ...
+ Grade obtained is :- A.

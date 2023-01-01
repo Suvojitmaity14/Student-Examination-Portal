@@ -1,0 +1,18 @@
+ Student Name : subho 
+ Class Roll-number: 07 
+ Stream : CSE 
+ Student ID : CSE2007
+
+
+ Marks obtained in the Following subjects are
+ ->-->-->-->-->-->-->-->-->-->-->-->-->-->-->-
+ Mathematics :- 100 
+ Physics :- 100 
+ Electrical :- 100 
+ Mechanics :- 100 
+ PythonProgramming :- 100 
+ Biology :- 100 
+
+Total marks out of 600 is : 600 and Percentage scored is : 100%
+Your Performance has been Outstanding ...
+ Grade obtained is :- A.

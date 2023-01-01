@@ -1,0 +1,18 @@
+ Student Name : soumalya 
+ Class Roll-number: 15 
+ Stream : CSEAI 
+ Student ID : CSEAI2015
+
+
+ Marks obtained in the Following subjects are
+ ->-->-->-->-->-->-->-->-->-->-->-->-->-->-->-
+ Mathematics :- 100 
+ Physics :- 78 
+ Electrical :- 89 
+ Mechanics :- 92 
+ PythonProgramming :- 96 
+ Biology :- 100 
+
+Total marks out of 600 is : 555 and Percentage scored is : 92%
+Your Performance has been Outstanding ...
+ Grade obtained is :- A.

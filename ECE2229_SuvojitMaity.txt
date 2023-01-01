@@ -1,0 +1,18 @@
+ Student Name : Suvojit Maity 
+ Class Roll-number: 29 
+ Stream : ECE 
+ Student ID : ECE2229
+
+
+ Marks obtained in the Following subjects are
+ ->-->-->-->-->-->-->-->-->-->-->-->-->-->-->-
+ Mathematics :- 77 
+ Chemistry :- 65 
+ Electrical :- 98 
+ Mechanics :- 99 
+ PythonProgramming :- 56 
+ Biology :- 78 
+
+Total marks out of 600 is : 473 and Percentage scored is : 78%
+Your Performance has been Very Good...
+ Grade obtained is :- C.

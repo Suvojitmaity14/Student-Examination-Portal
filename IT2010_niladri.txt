@@ -1,0 +1,18 @@
+ Student Name : niladri 
+ Class Roll-number: 10 
+ Stream : IT 
+ Student ID : IT2010
+
+
+ Marks obtained in the Following subjects are
+ ->-->-->-->-->-->-->-->-->-->-->-->-->-->-->-
+ Mathematics :- 100 
+ Chemistry :- 98 
+ Electrical :- 100 
+ Mechanics :- 99 
+ PythonProgramming :- 100 
+ Biology :- 97 
+
+Total marks out of 600 is : 594 and Percentage scored is : 99%
+Your Performance has been Outstanding ...
+ Grade obtained is :- A.

@@ -1,0 +1,18 @@
+ Student Name : tuhin 
+ Class Roll-number: 08 
+ Stream : CSE 
+ Student ID : CSE2108
+
+
+ Marks obtained in the Following subjects are
+ ->-->-->-->-->-->-->-->-->-->-->-->-->-->-->-
+ Mathematics :- 100 
+ Physics :- 98 
+ Electrical :- 98 
+ Mechanics :- 98 
+ PythonProgramming :- 100 
+ Biology :- 100 
+
+Total marks out of 600 is : 594 and Percentage scored is : 99%
+Your Performance has been Outstanding ...
+ Grade obtained is :- A.

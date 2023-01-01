@@ -1,0 +1,18 @@
+ Student Name : snehadri 
+ Class Roll-number: 06 
+ Stream : IT 
+ Student ID : IT2106
+
+
+ Marks obtained in the Following subjects are
+ ->-->-->-->-->-->-->-->-->-->-->-->-->-->-->-
+ Mathematics :- 100 
+ Chemistry :- 100 
+ Electrical :- 100 
+ Mechanics :- 100 
+ PythonProgramming :- 100 
+ Biology :- 100 
+
+Total marks out of 600 is : 600 and Percentage scored is : 100%
+Your Performance has been Outstanding ...
+ Grade obtained is :- A.
